@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/zeel/Desktop/School/MediaFundamentals/ws/Week_01/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/zeel/Desktop/School/MediaFundamentals/ws/Week_01/vs_project/CMakeFiles/generate.stamp is up-to-date.
+  week_01.cpp
+c:\users\zeel\desktop\school\mediafundamentals\ws\week_01\week_01.cpp(28): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\zeel\desktop\school\mediafundamentals\ws\week_01\week_01.cpp(30): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+  utils.cpp
+  Generating Code...
+  media_fundamentals.vcxproj -> C:\Users\zeel\Desktop\School\MediaFundamentals\ws\Week_01\vs_project\Debug\media_fundamentals.exe

@@ -1,0 +1,3 @@
+C:/Users/zeel/Desktop/School/MediaFundamentals/ws/Week_01/vs_project/CMakeFiles/media_fundamentals.dir
+C:/Users/zeel/Desktop/School/MediaFundamentals/ws/Week_01/vs_project/CMakeFiles/ALL_BUILD.dir
+C:/Users/zeel/Desktop/School/MediaFundamentals/ws/Week_01/vs_project/CMakeFiles/ZERO_CHECK.dir
